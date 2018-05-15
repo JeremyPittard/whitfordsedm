@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+dist
+.sass-cache
+.awspublish*
+config.json
+
+node_modules/
+dist/
+etc/
+.babelrc
+exampleconfig.json
